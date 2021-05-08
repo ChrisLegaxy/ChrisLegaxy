@@ -33,6 +33,8 @@ Over the past few years, I have focused on improving my skills in web developmen
 <br />
 <hr />
 
+<br />
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrislegaxy&layout=compact&theme=radical" />
 
 #### Technologies
