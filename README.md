@@ -1,9 +1,9 @@
 <div>
  
-<a href="https://chrisvan.netlify.app" target="_blank">
+<a href="https://chrisvan.netlify.app">
   <img align="left" alt="Chris Van's Website" width="28px" src="https://chrisvan.netlify.app/_nuxt/img/logo.83ff3bb.png" />
 </a>
-<a href="https://www.linkedin.com/in/vansenhengmeanrith" target="_blank">
+<a href="https://www.linkedin.com/in/vansenhengmeanrith">
   <img align="left" alt="Chris Van's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
