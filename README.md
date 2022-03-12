@@ -1,10 +1,12 @@
 <div>
- 
 <a href="https://chrisvan.netlify.app">
   <img align="left" alt="Chris Van's Website" width="28px" src="https://chrisvan.netlify.app/_nuxt/img/logo.83ff3bb.png" />
 </a>
 <a href="https://www.linkedin.com/in/vansenhengmeanrith">
   <img align="left" alt="Chris Van's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chrislegaxy&style=for-the-badge">
 </a>
 
 <img align="right" src="https://media.giphy.com/media/oCoDOqw7AfDFlFuCfq/giphy.gif" width="175" />
@@ -31,13 +33,12 @@ Over the past few years, I have focused on improving my skills in web developmen
 </div>
 
 <br />
-<br />
 <hr />
-<br />
-<br />
-
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrislegaxy&layout=compact&theme=radical" />
+
+<br />
+<br />
 
 #### Technologies
 
@@ -52,7 +53,9 @@ Over the past few years, I have focused on improving my skills in web developmen
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<hr>
 
+<br />
 <!--
 **ChrisLegaxy/ChrisLegaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![ChrisLegaxy's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=chrislegaxy&layout=compact&theme=radical)
@@ -75,3 +78,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Chris Van" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 -->
+<p align="center">
+ <a href="https://app.daily.dev/chrislegaxy">
+  <img src="https://api.daily.dev/devcards/1dbcf6774a3f40f9bf01820030a93501.png?r=la1" width="250" alt="Chris Legaxy's Dev Card"/>
+ </a>
+</p>
