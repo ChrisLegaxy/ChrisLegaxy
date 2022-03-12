@@ -8,7 +8,8 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chrislegaxy&style=for-the-badge">
 </a>
-
+  
+<!-- My GitHub's Stats -->
 <img align="right" src="https://media.giphy.com/media/oCoDOqw7AfDFlFuCfq/giphy.gif" width="175" />
 
 <br />
@@ -21,6 +22,7 @@ Over the past few years, I have focused on improving my skills in web developmen
 </div>
 
 <div>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chrislegaxy&show_icons=true&theme=radical&count_private=true" />
 
 <br />
@@ -40,6 +42,7 @@ Over the past few years, I have focused on improving my skills in web developmen
 <br />
 <br />
 
+<!-- Most Used Technology -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrislegaxy&layout=compact&theme=radical" />
 
 <br />
@@ -83,8 +86,17 @@ Here are some ideas to get you started:
   <img align="left" alt="Chris Van" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 -->
-<p align="center">
- <a href="https://app.daily.dev/chrislegaxy">
-  <img src="https://api.daily.dev/devcards/1dbcf6774a3f40f9bf01820030a93501.png?r=la1" width="250" alt="Chris Legaxy's Dev Card"/>
- </a>
-</p>
+
+<!-- Dev Card -->
+<a href="https://app.daily.dev/chrislegaxy">
+ <img align="right" src="https://api.daily.dev/devcards/1dbcf6774a3f40f9bf01820030a93501.png?r=la1" width="250" alt="Chris Legaxy's Dev Card"/>
+</a>
+
+<br />
+<br />
+<br />
+
+<!-- Streak Card -->
+<a href="https://app.daily.dev/chrislegaxy">
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ChrisLegaxy&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Chris Legaxy's Streak Card"/>
+</a>
