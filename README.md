@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 <!-- Dev Card -->
 <a href="https://app.daily.dev/chrislegaxy">
- <img align="right" src="https://api.daily.dev/devcards/1dbcf6774a3f40f9bf01820030a93501.png?r=la1" width="250" alt="Chris Legaxy's Dev Card"/>
+ <img align="right" src="https://api.daily.dev/devcards/1dbcf6774a3f40f9bf01820030a93501.png?r=hgy" width="250" alt="Chris Legaxy's Dev Card"/>
 </a>
 
 <br />
