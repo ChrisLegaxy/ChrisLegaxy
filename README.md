@@ -25,6 +25,7 @@ Over the past few years, I have focused on improving my skills in web developmen
 
 <br />
 <br />
+<br />
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@chrisvan](mailto://chrisvan.vshmr@gmail.com);
@@ -33,7 +34,11 @@ Over the past few years, I have focused on improving my skills in web developmen
 </div>
 
 <br />
+
 <hr />
+
+<br />
+<br />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrislegaxy&layout=compact&theme=radical" />
 
