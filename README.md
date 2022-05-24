@@ -1,16 +1,21 @@
 <div>
-<a href="https://chrisvan.netlify.app">
-  <img align="left" alt="Chris Van's Website" width="28px" src="https://chrisvan.netlify.app/_nuxt/img/logo.83ff3bb.png" />
-</a>
-<a href="https://www.linkedin.com/in/vansenhengmeanrith">
-  <img align="left" alt="Chris Van's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=chrislegaxy&style=for-the-badge">
-</a>
-  
-<!-- My GitHub's Stats -->
-<img align="right" src="https://media.giphy.com/media/oCoDOqw7AfDFlFuCfq/giphy.gif" width="175" />
+
+<div>
+  <a href="https://chrisvan.netlify.app">
+    <img align="left" alt="Chris Van's Website" width="28px" src="https://chrisvan.netlify.app/_nuxt/img/logo.83ff3bb.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/vansenhengmeanrith">
+    <img align="left" alt="Chris Van's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+      <img align="left" src="https://komarev.com/ghpvc/?username=chrislegaxy&style=for-the-badge">
+  </a>
+</div>
+
+<p align="right">
+  <img src="https://media.giphy.com/media/oCoDOqw7AfDFlFuCfq/giphy.gif" width="175" />
+</p>
+
 
 <br />
 <br />
@@ -23,7 +28,10 @@ Over the past few years, I have focused on improving my skills in web developmen
 
 <div>
 
+<!-- My GitHub's Stats -->
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chrislegaxy&show_icons=true&theme=radical&count_private=true" />
+
 
 <br />
 <br />
