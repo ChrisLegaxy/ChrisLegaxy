@@ -16,10 +16,6 @@
   <img src="https://media.giphy.com/media/oCoDOqw7AfDFlFuCfq/giphy.gif" width="175" />
 </p>
 
-
-<br />
-<br />
-
 #### Hello, I'm [Senheng/Chris](https://chrisvan.netlify.app), a passionate self-taught <i>Full Stack Web Developer</i> & <i>Project Manager</i>. 
 
 Over the past few years, I have focused on improving my skills in web development such as involving myself with the latest technology & trends Nest JS, Nuxt JS, GraphQL, SSG/JAM Stack, Containers, CI/CD. I have managed, designed & developed projects for clients with various different needs ranging from Landing Websites to Enterprise Web Applications.
