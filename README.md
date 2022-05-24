@@ -12,9 +12,10 @@
   </a>
 </div>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/oCoDOqw7AfDFlFuCfq/giphy.gif" width="175" />
-</p>
+<img align="right" src="https://i.pinimg.com/originals/91/d3/05/91d305ed89c3261b75d05514c81c9885.png" width="175" />
+  
+<br />
+<br />
 
 #### Hello, I'm [Senheng/Chris](https://chrisvan.netlify.app), a passionate self-taught <i>Full Stack Web Developer</i> & <i>Project Manager</i>. 
 
