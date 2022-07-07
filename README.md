@@ -36,7 +36,7 @@ Over the past few years, I have focused on improving my skills in web developmen
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@chrisvan](mailto://chrisvan.vshmr@gmail.com);
-- 📝 [Resume](https://drive.google.com/file/d/1wR5zXgUNJbRuePmhVQ90awhUrbKDq1Rl/view?usp=sharing)
+- 📝 [Resume](https://chrisvan.netlify.app/Chris-VAN_CV.pdf)
 
 </div>
 
