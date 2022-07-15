@@ -23,6 +23,9 @@ Over the past few years, I have focused on improving my skills in web developmen
 
 </div>
 
+<br />
+<br />
+
 <div>
 
 <!-- My GitHub's Stats -->
