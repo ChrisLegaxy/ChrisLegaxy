@@ -5,7 +5,7 @@
     <img align="left" alt="Chris Van's Website" width="28px" src="https://chrisvan.netlify.app/_nuxt/img/logo.83ff3bb.png" />
   </a>
   <a href="https://www.linkedin.com/in/vansenhengmeanrith">
-    <img align="left" alt="Chris Van's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="Chris Van's LinkedIn" width="28px" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus_icons/6bbbd5920d81c10bf92a22005fbcd81e9195a082/src/apps_linkedin.svg" />
   </a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
       <img align="left" src="https://komarev.com/ghpvc/?username=chrislegaxy&style=for-the-badge">
